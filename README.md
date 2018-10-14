@@ -42,3 +42,7 @@ Last updated: 2018-10-14
 ## Disclaimer
 
 This repository (and the data contained within) is neither affiliated with nor endorsed by anyone associated with the Oklahoma Turnpike Authority or the State of Oklahoma.
+
+## Contributing and License
+
+This repository (including all data) is released into the Public Domain. Please open an issue if you find any errors or omissions. Contributions and corrections to the repository should be submitted by pull request.
