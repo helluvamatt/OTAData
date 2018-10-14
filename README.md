@@ -38,3 +38,7 @@ Last updated: 2018-10-14
 | `axles` | int | Axle count this toll applies to (2 - 6) |
 | `cash_toll` | decimal | Cash toll rate |
 | `disc_toll` | decimal | Discounted "PikePass" toll rate |
+
+## Disclaimer
+
+This repository (and the data contained within) is neither affiliated with nor endorsed by anyone associated with the Oklahoma Turnpike Authority or the State of Oklahoma.
