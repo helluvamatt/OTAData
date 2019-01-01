@@ -1,6 +1,6 @@
-# Oklahoma Turpike Authority Toll Data
+# Oklahoma Turnpike Authority Toll Data
 
-Normalized toll data for Oklahome Turnpike Authority turnpikes.
+Normalized toll data for Oklahoma Turnpike Authority turnpikes.
 
 The data is scraped from https://www.pikepass.com/toll/AllTollRates.aspx
 
